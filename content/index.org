@@ -1,0 +1,6 @@
+#+TITLE: Welcome To German's Blog
+#+DESCRIPTION: Official blog of German Martinez
+#+AUTHOR: German Martinez
+
+* Introduction
+This is my personal blog.
