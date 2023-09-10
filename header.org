@@ -1,0 +1,15 @@
+#+DESCRIPTION: Header
+#+SETUPFILE: ./org-html-themes/org/theme-readtheorg.setup
+#+INCLUDE: "./header.org"
+
+#+begin_export html
+<div class="header">
+  <nav>
+    <li><a href="https://org-blog.pages.dev/index.html">Home</a></li>
+    <li><a href="https://org-blog.pages.dev/general/index.html">General Software Development</a></li>
+    <li><a href="https://org-blog.pages.dev/web/index.html">Web Development</a></li>
+    <li><a href="https://org-blog.pages.dev/ml/index.html">Machine Learning</a></li>
+    <li><a href="https://org-blog.pages.dev/math/index.html">Math</a></li>
+  </nav>
+</div>
+#+end_export
