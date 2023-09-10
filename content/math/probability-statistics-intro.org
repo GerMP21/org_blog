@@ -1,0 +1,54 @@
+#+title: Probability Statistics Intro
+
+* Probability and Statistics: An Introduction
+
+** Introduction to Probability
+   - Understanding the basics of probability theory
+   - Probability distributions and their properties
+
+** Combinatorics and Counting Principles
+   - Counting methods, permutations, and combinations
+   - Probability of events using combinatorial techniques
+
+** Conditional Probability and Bayes' Theorem
+   - Calculating conditional probabilities and applying Bayes' theorem
+   - Applications in decision making and statistics
+
+** Probability Distributions
+
+*** 1. Discrete Distributions
+    - Probability mass functions (PMFs) and cumulative distribution functions (CDFs)
+    - Examples of discrete distributions (e.g., binomial, Poisson)
+
+*** 2. Continuous Distributions
+    - Probability density functions (PDFs) and cumulative distribution functions (CDFs)
+    - Examples of continuous distributions (e.g., normal, exponential)
+
+** Descriptive Statistics
+   - Measures of central tendency (mean, median, mode) and variability (variance, standard deviation)
+   - Data visualization and summary statistics
+
+** Inferential Statistics
+
+*** 1. Estimation
+    - Point estimation and interval estimation
+    - Confidence intervals and margin of error
+
+*** 2. Hypothesis Testing
+    - Formulating and testing hypotheses
+    - Types of errors and significance levels
+
+** Regression and Correlation
+   - Linear regression and correlation analysis
+   - Interpreting regression coefficients and assessing model fit
+
+** Probability and Statistics in Data Analysis
+   - How probability and statistics concepts are applied in data science and analysis
+   - Examples from hypothesis testing, A/B testing, and experimental design
+
+** Probability and Statistics in Machine Learning
+   - Applications of probability and statistics in machine learning algorithms
+   - Examples from Bayesian methods, statistical learning, and more
+
+** Further Reading and Resources
+   - Recommended books, courses, and online resources for further learning in probability and statistics

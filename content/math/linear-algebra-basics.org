@@ -1,0 +1,46 @@
+#+title: Linear Algebra Basics
+
+* Linear Algebra Basics
+
+** Introduction to Linear Algebra
+   - Understanding the fundamentals of linear algebra and its importance in machine learning and computer graphics
+   - Applications of linear algebra in various fields
+
+** Vectors and Vector Operations
+   - Definition and properties of vectors
+   - Vector addition, scalar multiplication, and dot products
+
+** Matrices and Matrix Operations
+   - Basics of matrices, matrix addition, multiplication, and transpose
+   - Determinants and inverses of matrices
+
+** Systems of Linear Equations
+   - Representing systems of linear equations in matrix form
+   - Solving systems of equations using methods like Gaussian elimination and matrix inversion
+
+** Eigenvalues and Eigenvectors
+   - Definition and properties of eigenvalues and eigenvectors
+   - Applications of eigenvalues in various fields
+
+** Linear Transformations
+   - Understanding linear transformations and their representation as matrices
+   - Examples of linear transformations in 2D and 3D spaces
+
+** Inner Product Spaces and Orthogonality
+   - Defining inner product spaces and orthogonal vectors
+   - Gram-Schmidt process and orthogonalization
+
+** Vector Spaces and Subspaces
+   - Understanding vector spaces and subspaces
+   - Basis vectors and dimensionality of subspaces
+
+** Matrix Factorizations
+   - Decomposing matrices into simpler forms (e.g., LU, QR, SVD)
+   - Applications of matrix factorizations in data analysis and machine learning
+
+** Applications of Linear Algebra in Machine Learning
+   - How linear algebra concepts are used in machine learning algorithms
+   - Examples from linear regression, PCA, and other ML techniques
+
+** Further Reading and Resources
+   - Recommended books, courses, and online resources for learning and applying linear algebra

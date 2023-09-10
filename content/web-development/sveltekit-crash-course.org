@@ -1,0 +1,46 @@
+#+title: Sveltekit Crash Course
+
+* SvelteKit: A Crash Course
+
+** Introduction to SvelteKit
+   - What is SvelteKit and how does it differ from other frameworks?
+   - Advantages of using SvelteKit for web development
+
+** Setting Up a SvelteKit Project
+   - Installing and configuring SvelteKit
+   - Creating a new SvelteKit application
+
+** Components in SvelteKit
+   - Understanding the component-based architecture
+   - Creating and managing components in SvelteKit
+
+** Routing and Navigation
+   - Setting up routes in SvelteKit
+   - Implementing navigation within a SvelteKit application
+
+** Data Management with SvelteKit
+   - Fetching and handling data in a SvelteKit application
+   - Managing state and reactivity in SvelteKit components
+
+** Styling in SvelteKit
+   - Using CSS modules and other styling approaches in SvelteKit
+   - Best practices for styling SvelteKit applications
+
+** Working with APIs
+   - Making API requests in SvelteKit
+   - Integrating external data sources into a SvelteKit application
+
+** Forms and User Input
+   - Handling user input and forms in SvelteKit
+   - Validating and submitting form data
+
+** Building and Deploying a SvelteKit App
+   - Optimizing and preparing a SvelteKit application for production
+   - Deploying to popular hosting platforms
+
+** Advanced Topics and Best Practices
+   - Code splitting, server-side rendering, and other advanced features in SvelteKit
+   - Best practices for optimizing and maintaining SvelteKit applications
+
+** Additional Resources
+   - Recommended tutorials, articles, and resources for further learning SvelteKit
