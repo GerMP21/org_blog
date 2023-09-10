@@ -2,9 +2,8 @@
 #+AUTHOR: German Martinez
 #+DESCRIPTION: Welcome to my blog! Here, you'll find articles on machine learning, web development, software development knowledge, and mathematics.
 
+(Currently outlines)
 * Table of Contents
-
-    (Currently outlines)
 
 ** General Software Development
    - [[./general/algorithm-design-patterns.org][Algorithm Design Patterns]]

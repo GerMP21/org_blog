@@ -8,35 +8,18 @@
   --mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
   --standard-border-radius: 5px;
 
-  /* Default (light) theme */
-  --bg: #fff;
-  --accent-bg: #f5f7ff;
-  --text: #212121;
-  --text-light: #585858;
+  /* Default (dark) theme */
+  --bg: #13171f;
+  --accent-bg: #2b2b2b;
+  --text: #dcdcdc;
+  --text-light: #ababab;
   --border: #898EA4;
-  --accent: #8999f9;
+  --accent: #e48500;
   --code: #f7708e;
-  --preformatted: #444;
+  --preformatted: #ccc;
   --marked: #82ab00;
-  --disabled: #efefef;
-}
-
-/* Dark theme */
-@media (prefers-color-scheme: dark) {
-  :root,
-  ::backdrop {
-    color-scheme: dark;
-    --bg: #13171f;
-    --accent-bg: #2b2b2b;
-    --text: #dcdcdc;
-    --text-light: #ababab;
-    --accent: #e48500;
-    --preformatted: #ccc;
-    --disabled: #111;
-  }
-  /* Add a bit of transparency so light media isn't so glaring in dark mode */
-  img,
-  video {
+  --disabled: #111;
+  img, video {
     opacity: 0.8;
   }
 }
