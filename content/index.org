@@ -4,21 +4,21 @@
 
 * Table of Contents
 
-(Currently outlines)
+    (Currently outlines)
 
 ** General Software Development
-   - [[./software-dev/algorithm-design-patterns.org][Algorithm Design Patterns]]
-   - [[./software-dev/version-control-best-practices.org][Version Control Best Practices]]
-   - [[./software-dev/debugging-tips-tricks.org][Debugging Tips and Tricks]]
-   - [[./software-dev/code-review-guidelines.org][Code Review Guidelines]]
+   - [[./general/algorithm-design-patterns.org][Algorithm Design Patterns]]
+   - [[./general/version-control-best-practices.org][Version Control Best Practices]]
+   - [[./general/debugging-tips-tricks.org][Debugging Tips and Tricks]]
+   - [[./general/code-review-guidelines.org][Code Review Guidelines]]
 
 ** Web Development
-   - [[./web-development/sveltekit-crash-course.org][SvelteKit: A Crash Course]]
-   - [[./web-development/css-styling-tips.org][Styling Tips]]
+   - [[./web/sveltekit-crash-course.org][SvelteKit: A Crash Course]]
+   - [[./web/css-styling-tips.org][CSS Styling Tips]]
 
 ** Machine Learning
-   - [[./machine-learning/intro-to-ml.org][Introduction to Machine Learning]]
-   - [[./machine-learning/deep-learning-basics.org][Deep Learning Basics]]
+   - [[./ml/intro-to-ml.org][Introduction to Machine Learning]]
+   - [[./ml/deep-learning-basics.org][Deep Learning Basics]]
 
 ** Mathematics
    - [[./math/linear-algebra-basics.org][Linear Algebra Basics]]
@@ -29,4 +29,4 @@
   - Hi! I'm German Martinez, a passionate software developer with a keen interest in machine learning and web development. I created this blog as a place to share my knowledge and experiences in the tech world. Feel free to reach out if you have any questions or suggestions!
 
 * Contact
-  - You can contact me at: [[mailto:german.martinez@example.com][german.martinez@gmail.com]]
+  - You can contact me at: [[mailto:german.martinez@gmail.com][german.martinez@gmail.com]]
