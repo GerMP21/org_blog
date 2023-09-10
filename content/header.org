@@ -1,5 +1,4 @@
 #+DESCRIPTION: Header
-#+INCLUDE: "./header.org"
 
 #+begin_export html
 <div class="header">
