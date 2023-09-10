@@ -1,6 +1,7 @@
 #+TITLE: German Martinez's Tech Blog
 #+AUTHOR: German Martinez
 #+DESCRIPTION: Welcome to my blog! Here, you'll find articles on machine learning, web development, software development knowledge, and mathematics.
+#+INCLUDE: "./header.org"
 
 (Currently outlines)
 * Table of Contents
