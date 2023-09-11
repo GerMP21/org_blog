@@ -5,7 +5,7 @@
 (setq org-html-validation-link nil            ;; Don't show validation link
       org-html-head-include-scripts nil       ;; Use our own scripts
       org-html-head-include-default-style nil ;; Use our own styles
-                org-html-head "<link rel=\'stylesheet\' href=\'https://org-blog.pages.dev/css/simple.css\' />")
+                org-html-head "<link rel=\'stylesheet\' href=\'https://org-blog.pages.dev/static/css/simple.css\' />")
 
 ;; Define the publishing project
 (setq org-publish-project-alist
@@ -23,7 +23,7 @@
        (list "org_attachments"
              :base-directory "./static/"
              :base-extension "css\\|js\\|png\\|jpg\\|gif\\|pdf\\|mp3\\|ogg\\|swf"
-             :publishing-directory "./public"
+             :publishing-directory "./public/static/"
              :recursive t
              :publishing-function 'org-publish-attachment)))
 
